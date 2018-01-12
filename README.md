@@ -1,2 +1,3 @@
 # TeamAquaHack2018
-The repo for the core team
+This repository will show how we want the teams to structure their work during the hackathon.
+
